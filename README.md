@@ -72,12 +72,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=Abstruse-Goose-Archive" />
 </a>
 
-<a href="https://github.com/s-macke/mathematica-encode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=mathematica-encode" />
-</a>
-
-
-
 # Lecture
 
 <a href="https://github.com/s-macke/concepts-of-programming-languages">
