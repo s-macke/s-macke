@@ -24,6 +24,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=SIDSpectro" />
 </a>
 
+<a href="https://github.com/ioccc-src/winner/tree/master/2024/macke">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ioccc-src&repo=winner" />
+  <br/>
+  (Winner of the 2024 International Obsfucated C Code Context.)
+</a>
+
+
 ## Reverse Engineering
 
 <a href="https://github.com/s-macke/VoxelSpace">
