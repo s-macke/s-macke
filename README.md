@@ -1,5 +1,7 @@
 # Repositories of Sebastian Macke
 
+![stats](https://github-readme-stats.vercel.app/api?username=s-macke&theme=monokai&hide=contribs,prs,issues,contribs)
+
 ## AI
 
 <a href="https://github.com/s-macke/AdventureAI">
