@@ -1,6 +1,6 @@
 # Repositories of Sebastian Macke
 
-![stats](https://github-readme-stats.vercel.app/api?username=s-macke&theme=monokai&hide=contribs,prs,issues,contribs)
+![Stats](./profile/stats.svg)
 
 ## AI
 
