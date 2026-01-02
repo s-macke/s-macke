@@ -63,14 +63,12 @@ I am also writing an [AI Newsletter](https://www.linkedin.com/newsletters/qaware
 ## Rendering
 
 <a href="https://github.com/s-macke/WebGPU-Lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=WebGPU-Lab" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=WebGPU-Lab" />
 </a>
 
 <a href="https://github.com/s-macke/CoreCascade">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=CoreCascade" />
 </a>
-
-
 
 ## Games
 
