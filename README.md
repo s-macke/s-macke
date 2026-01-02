@@ -1,33 +1,38 @@
 # Repositories of Sebastian Macke
 
+I would describe myself as a computer enthusiast with a passion for science. That’s why I studied and graduated in computational physics. I am interested in all computer-related fields and have experience in physical simulations, architecture optimization, parallelization, web programming, reverse engineering, security, computer emulation, and AI.
+
+I’ve been interested in machine learning since the late 90s. Seeing this very technology explode right now is both exciting and validating. I am currently focusing my professional life on this field.
+I am also writing an [AI Newsletter](https://www.linkedin.com/newsletters/qaware-ai-insights-7222227604580225024/) on LinkedIn .
+
 ![Stats](./profile/stats.svg)
 
 ## AI
 
 <a href="https://github.com/s-macke/AdventureAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=AdventureAI" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=AdventureAI" />
 </a>
 
 <a href="https://github.com/s-macke/GoPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=GoPT" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=GoPT" />
 </a>
 
 ## Emulation
 
 <a href="https://github.com/s-macke/FSHistory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=FSHistory" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=FSHistory" />
 </a>
 
 <a href="https://github.com/s-macke/jor1k">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=jor1k" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=jor1k" />
 </a>
 
 <a href="https://github.com/s-macke/SIDSpectro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=SIDSpectro" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=SIDSpectro" />
 </a>
 
 <a href="https://github.com/ioccc-src/winner/tree/master/2024/macke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ioccc-src&repo=winner" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ioccc-src&repo=winner" />
   <br/>
   (Winner of the 2024 International Obsfucated C Code Context.)
 </a>
@@ -36,23 +41,23 @@
 ## Reverse Engineering
 
 <a href="https://github.com/s-macke/VoxelSpace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=VoxelSpace" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=VoxelSpace" />
 </a>
 
 <a href="https://github.com/s-macke/starflight-reverse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=starflight-reverse" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=starflight-reverse" />
 </a>
 
 <a href="https://github.com/s-macke/Test-Drive-3-Maps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=Test-Drive-3-Maps" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=Test-Drive-3-Maps" />
 </a>
 
 <a href="https://github.com/s-macke/SAM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=SAM" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=SAM" />
 </a>
 
 <a href="https://github.com/s-macke/mathematica-encode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=mathematica-encode" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=mathematica-encode" />
 </a>
 
 ## Rendering
@@ -62,7 +67,7 @@
 </a>
 
 <a href="https://github.com/s-macke/CoreCascade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=CoreCascade" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=CoreCascade" />
 </a>
 
 
@@ -70,7 +75,7 @@
 ## Games
 
 <a href="https://github.com/s-macke/Interplanetary-Postal-Service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=Interplanetary-Postal-Service" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=Interplanetary-Postal-Service" />
 </a>
 
 
@@ -78,21 +83,21 @@
 
 
 <a href="https://github.com/s-macke/Forthly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=Forthly" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=Forthly" />
 </a>
 
 <a href="https://github.com/s-macke/SlapperX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=SlapperX" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=SlapperX" />
 </a>
 
 <a href="https://github.com/s-macke/Abstruse-Goose-Archive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=Abstruse-Goose-Archive" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=Abstruse-Goose-Archive" />
 </a>
 
 # Lecture
 
 <a href="https://github.com/s-macke/concepts-of-programming-languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-macke&repo=concepts-of-programming-languages" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=concepts-of-programming-languages" />
 </a>
 
 
