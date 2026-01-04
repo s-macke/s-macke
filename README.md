@@ -76,9 +76,12 @@ I am also writing an [AI Newsletter](https://www.linkedin.com/newsletters/qaware
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=Interplanetary-Postal-Service" />
 </a>
 
+<a href="https://github.com/s-macke/weltendaemmerung">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=weltendaemmerung" />
+</a>
+
 
 ## Mixed
-
 
 <a href="https://github.com/s-macke/Forthly">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=s-macke&repo=Forthly" />
