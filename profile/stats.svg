@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sebastian Macke's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 12070, Total Commits  (last year) : 354</desc>
+        <desc id="descId">Total Stars Earned: 12071, Total Commits  (last year) : 354</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 65.50636710918835;
+        stroke-dashoffset: 65.50633859588478;
       }
     }
   
