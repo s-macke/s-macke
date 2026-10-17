@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Sebastian Macke&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 12356, Total Commits  (last year) : 369</desc>
+        <title id="titleId">Sebastian Macke&#39;s GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 12360, Total Commits  (last year) : 496</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 64.85577988682078;
+        stroke-dashoffset: 60.386394727533265;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          A
         </text>
       
         </g>
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >369</text>
+      >496</text>
     </g>
   </g>
     </svg>
